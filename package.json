@@ -1,0 +1,26 @@
+{
+  "name": "custom-notifications",
+  "main": "./lib/custom-notifications",
+  "version": "0.0.0",
+  "description": "Add custom notifications to Atom Editor",
+  "keywords": [
+    "custom",
+    "notifications",
+    "reminder"
+    "commit",
+    "break",
+    "drink",
+    "water"
+  ],
+  "activationCommands": {
+    "atom-workspace": "custom-notifications:toggle"
+  },
+  "homepage": "https://atom.io/packages/custom-notifications",
+  "repository": "https://github.com/iamsenthilprabu/custom-notifications",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

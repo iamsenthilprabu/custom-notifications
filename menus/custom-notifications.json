@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle Custom Notifications",
+        "command": "custom-notifications:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "custom-notifications",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "custom-notifications:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
