@@ -1,7 +1,7 @@
 {
   "name": "custom-notifications",
   "main": "./lib/custom-notifications",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Add custom notifications to Atom Editor",
   "keywords": [
     "custom",
@@ -21,6 +21,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
