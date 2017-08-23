@@ -6,7 +6,7 @@
 
 Display custom notifications at regular interval.  
 
-![Starting Custom Notifications](screenshots/custom_notifications.gif)
+![Starting Custom Notifications](screenshots/custom-notifications.gif)
 
 ## Installation
 
