@@ -6,11 +6,40 @@ Display custom notifications at regular interval.
 [![apm](https://img.shields.io/apm/dm/custom-notifications.svg?style=flat-square)](https://atom.io/packages/custom-notifications)
 [![apm](https://img.shields.io/apm/l/custom-notifications.svg?style=flat-square)](https://atom.io/packages/custom-notifications)
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
-
 ## Installation
 
 Go to `Settings > Install` and then search for `custom-notifications` under `Packages`.
+
+## Configuration
+
+You can configure the notifications in custom-notifications -> settings.
+
+![Configuration Screen](screenshots/configuration.png)
+
+You can customize the following:
+ * Custom Duration In Seconds: **Interval duration for the notification.**
+ * Custom Notification Text: **Notification Text.**
+
+## Toogle (On / Off) the custom notification
+
+ After Installing and configuring the package, you need to Turn ON the notification.
+
+![Configuration Screen](screenshots/starting_custom_notification.png)
+
+ For both Turn On and Turn Off the notification, you can do any of the following.
+
+  * Command Palette: **Custom Notifications: Toggle**
+  * Context Menu: **Right Click in Atom Editor -> Toggle Custom Notifications**
+  * Keyboard Shortcut: **ctrl-shift-c**
+
+You will get the notifications at regular interval.
+
+![Configuration Screen](screenshots/notification.png)
+
+You can turn off the Custom Notifications by using the same Toogle options.  
+(Command Palette /Context Menu / Keyboard Shortcut)
+
+![Configuration Screen](screenshots/stoping_custom_notification.png)
 
 ### Contribute
 
