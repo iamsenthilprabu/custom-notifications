@@ -1,10 +1,11 @@
 # Custom Notifications
 
-Display custom notifications at regular interval.
-
 [![apm](https://img.shields.io/apm/v/custom-notifications.svg?style=flat-square)](https://atom.io/packages/custom-notifications)
 [![apm](https://img.shields.io/apm/dm/custom-notifications.svg?style=flat-square)](https://atom.io/packages/custom-notifications)
 [![apm](https://img.shields.io/apm/l/custom-notifications.svg?style=flat-square)](https://atom.io/packages/custom-notifications)
+
+Display custom notifications at regular interval.  
+![Starting Custom Notifications](screenshots/starting_custom_notification.png)
 
 ## Installation
 
