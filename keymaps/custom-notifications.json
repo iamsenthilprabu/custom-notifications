@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-shift-c": "custom-notifications:toggle"
+    "ctrl-alt-c": "custom-notifications:toggle"
   }
 }

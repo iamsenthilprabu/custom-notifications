@@ -30,7 +30,7 @@ You can customize the following:
 
   * Command Palette: **Custom Notifications: Toggle**
   * Context Menu: **Right Click in Atom Editor -> Toggle Custom Notifications**
-  * Keyboard Shortcut: **ctrl-shift-c**
+  * Keyboard Shortcut: **ctrl-alt-c**
 
 When you Toogle Custom Notifications, You will get a confirmation notification.
 
