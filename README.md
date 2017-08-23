@@ -24,7 +24,7 @@ You can customize the following:
 
  After Installing and configuring the package, you need to Turn ON the notification.
 
-![Configuration Screen](screenshots/starting_custom_notification.png)
+![Starting Custom Notifications](screenshots/starting_custom_notification.png)
 
  For both Turn On and Turn Off the notification, you can do any of the following.
 
@@ -34,17 +34,17 @@ You can customize the following:
 
 You will get the notifications at regular interval.
 
-![Configuration Screen](screenshots/notification.png)
+![Custom Notifications](screenshots/notification.png)
 
 You can turn off the Custom Notifications by using the same Toogle options.  
 (Command Palette /Context Menu / Keyboard Shortcut)
 
-![Configuration Screen](screenshots/stoping_custom_notification.png)
+![Stopping Custom Notifications](screenshots/stoping_custom_notification.png)
 
 ### Contribute
 
-Pull requests are welcome. If you like to add support for a language you work in, feel free to contribute and open a pull request.
-
+Pull requests are welcome.  
+If you like to add support for a language you work in, feel free to contribute and open a pull request.  
 In lieu of a formal style guide, take care to maintain the existing coding style.
 
 ### License
