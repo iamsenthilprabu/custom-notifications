@@ -26,15 +26,17 @@ You can customize the following:
 
  After Installing and configuring the package, you need to Turn ON the notification.
 
-![Starting Custom Notifications](screenshots/starting_custom_notification.png)
-
  For both Turn On and Turn Off the notification, you can do any of the following.
 
   * Command Palette: **Custom Notifications: Toggle**
   * Context Menu: **Right Click in Atom Editor -> Toggle Custom Notifications**
   * Keyboard Shortcut: **ctrl-shift-c**
 
-You will get the notifications at regular interval.
+When you Toogle Custom Notifications, You will get a confirmation notification.
+
+![Starting Custom Notifications](screenshots/starting_custom_notification.png)
+
+Then, you will get your custom notifications at regular interval.
 
 ![Custom Notifications](screenshots/notification.png)
 
