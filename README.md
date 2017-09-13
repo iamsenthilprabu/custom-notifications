@@ -6,7 +6,7 @@
 
 Display regular notifications at regular interval.  
 
-![Starting Custom Notifications](screenshots/custom-notifications.gif)
+![Starting Custom Notifications](https://github.com/iamsenthilprabu/regular-notifications/blob/master/screenshots/regular-notifications.gif)
 
 ## Installation
 
@@ -16,7 +16,7 @@ Go to `Settings > Install` and then search for `regular-notifications` under `Pa
 
 You can configure the notifications in regular-notifications -> settings.
 
-![Configuration Screen](screenshots/configuration.png)
+![Configuration Screen](https://raw.githubusercontent.com/iamsenthilprabu/regular-notifications/master/screenshots/configuration.png)
 
 You can customize the following:
  * Duration In Seconds: **Interval duration for the notification.**
@@ -34,16 +34,16 @@ You can customize the following:
 
 When you Toogle regular Notifications, You will get a confirmation notification.
 
-![Starting Custom Notifications](screenshots/starting_custom_notification.png)
+![Starting Regular Notifications](https://raw.githubusercontent.com/iamsenthilprabu/regular-notifications/master/screenshots/starting_regular_notification.png)
 
 Then, you will get your regular notifications at regular interval.
 
-![Custom Notifications](screenshots/notification.png)
+![Regular Notifications](https://raw.githubusercontent.com/iamsenthilprabu/regular-notifications/master/screenshots/notification.png)
 
 You can turn off the regular Notifications by using the same Toogle options.  
 (Command Palette /Context Menu / Keyboard Shortcut)
 
-![Stopping Custom Notifications](screenshots/stoping_custom_notification.png)
+![Stopping Regular Notifications](https://raw.githubusercontent.com/iamsenthilprabu/regular-notifications/master/screenshots/stoping_regular_notification.png)
 
 ### Contribute
 
