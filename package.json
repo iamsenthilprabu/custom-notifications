@@ -1,5 +1,5 @@
 {
-  "name": "custom-notifications",
+  "name": "regular-notification",
   "main": "./lib/custom-notifications",
   "version": "0.1.0",
   "description": "Add custom notifications to Atom Editor",
