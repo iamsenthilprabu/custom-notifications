@@ -1,10 +1,10 @@
 {
   "name": "regular-notification",
-  "main": "./lib/custom-notifications",
+  "main": "./lib/regular-notifications",
   "version": "0.1.1",
-  "description": "Add custom notifications to Atom Editor",
+  "description": "Add regular notifications to Atom Editor",
   "keywords": [
-    "custom",
+    "regular",
     "notifications",
     "reminder",
     "commit",
@@ -13,10 +13,10 @@
     "water"
   ],
   "activationCommands": {
-    "atom-workspace": "custom-notifications:toggle"
+    "atom-workspace": "regular-notifications:toggle"
   },
-  "homepage": "https://atom.io/packages/custom-notifications",
-  "repository": "https://github.com/iamsenthilprabu/custom-notifications",
+  "homepage": "https://atom.io/packages/regular-notifications",
+  "repository": "https://github.com/iamsenthilprabu/regular-notifications",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

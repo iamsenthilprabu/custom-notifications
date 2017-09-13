@@ -2,8 +2,8 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle Custom Notifications",
-        "command": "custom-notifications:toggle"
+        "label": "Toggle Regular Notifications",
+        "command": "regular-notifications:toggle"
       }
     ]
   },
@@ -12,11 +12,11 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "custom-notifications",
+          "label": "Regular notifications",
           "submenu": [
             {
               "label": "Toggle",
-              "command": "custom-notifications:toggle"
+              "command": "regular-notifications:toggle"
             }
           ]
         }
