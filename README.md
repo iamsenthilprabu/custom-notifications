@@ -6,7 +6,7 @@
 
 Display regular notifications at regular interval.  
 
-![Starting Custom Notifications](https://github.com/iamsenthilprabu/regular-notifications/blob/master/screenshots/regular-notifications.gif)
+![Starting Custom Notifications](https://raw.githubusercontent.com/iamsenthilprabu/regular-notifications/master/screenshots/regular-notifications.gif)
 
 ## Installation
 
