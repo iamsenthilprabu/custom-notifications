@@ -1,12 +1,16 @@
 # Regular Notifications
 
-[![apm](https://img.shields.io/apm/v/custom-notifications.svg?style=flat-square)](https://atom.io/packages/custom-notifications)
-[![apm](https://img.shields.io/apm/dm/custom-notifications.svg?style=flat-square)](https://atom.io/packages/custom-notifications)
-[![apm](https://img.shields.io/apm/l/custom-notifications.svg?style=flat-square)](https://atom.io/packages/custom-notifications)
+[![apm](https://img.shields.io/apm/v/regular-notifications.svg?style=flat-square)](https://atom.io/packages/regular-notifications)
+[![apm](https://img.shields.io/apm/dm/regular-notifications.svg?style=flat-square)](https://atom.io/packages/regular-notifications)
+[![apm](https://img.shields.io/apm/l/regular-notifications.svg?style=flat-square)](https://atom.io/packages/regular-notifications)
 
 Display regular notifications at regular interval.  
 
-![Starting Custom Notifications](https://raw.githubusercontent.com/iamsenthilprabu/regular-notifications/master/screenshots/regular-notifications.gif)
+![Starting Regular Notifications](https://raw.githubusercontent.com/iamsenthilprabu/regular-notifications/master/screenshots/regular-notifications.gif)
+
+## Important
+
+I renamed this package form 'custom-notifications' to 'regular-notifications'. If you have any issues with the package, kindly reinstall the package to make it work properly.
 
 ## Installation
 
