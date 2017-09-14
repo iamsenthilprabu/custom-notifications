@@ -1,7 +1,7 @@
 {
   "name": "regular-notifications",
   "main": "./lib/regular-notifications",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "description": "Add regular notifications to Atom Editor",
   "keywords": [
     "regular",
